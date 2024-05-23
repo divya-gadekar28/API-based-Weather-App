@@ -40,7 +40,7 @@ To set up and run the app locally, follow these steps:
 2. Open `index.html` in your preferred web browser.
 
 ## Configuration
-To use the OpenWeather API, you need to sign up for an API key:
+To use the OpenWeather API, you need to sign up for an API key:-
 
 1. Go to the [OpenWeather API](https://openweathermap.org/api) website.
 2. Sign up for a free account and generate an API key.
